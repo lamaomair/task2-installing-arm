@@ -51,12 +51,14 @@ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 
 sudo nano ~/.bashrc
 
+![unnamed (3)](https://user-images.githubusercontent.com/109251925/180820270-f0456c68-81ea-4813-99d0-047f781c1f4b.jpg)
+
 at the end of the (bashrc) file add the follwing line
 (source /home/lamaomair/catkin_ws/devel/setup.bash)
 then 
 ctrl + o
 
-sudo source ~/.bashrc
+source ~/.bashrc
 
 roslaunch robot_arm_pkg check_motors.launch
 
