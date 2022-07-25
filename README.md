@@ -53,10 +53,13 @@ sudo nano ~/.bashrc
 
 ![unnamed (3)](https://user-images.githubusercontent.com/109251925/180820270-f0456c68-81ea-4813-99d0-047f781c1f4b.jpg)
 
-at the end of the (bashrc) file add the follwing line
+### at the end of the (bashrc) file add the follwing line :
+
 (source /home/lamaomair/catkin_ws/devel/setup.bash)
 then 
 ctrl + o
+
+![bashfile](https://user-images.githubusercontent.com/109251925/180821190-9ec2b1fa-bbb8-4353-ab16-19dec06a7a1c.jpg)
 
 ![bashlamaomair](https://user-images.githubusercontent.com/109251925/180820931-3e9569f5-c85f-479d-9f73-defa93bd373c.jpg)
 
