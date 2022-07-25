@@ -1,5 +1,5 @@
 # task2-installing-arm
-## How to nstalling the arm package in ROS noetic ?
+## How to installing the arm package in ROS noetic ?
 
 ### After installing ROS successfully. we will installing the arm package.I follow the instruction below  
 
