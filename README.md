@@ -58,6 +58,9 @@ at the end of the (bashrc) file add the follwing line
 then 
 ctrl + o
 
+![bashlamaomair](https://user-images.githubusercontent.com/109251925/180820931-3e9569f5-c85f-479d-9f73-defa93bd373c.jpg)
+
+
 source ~/.bashrc
 
 roslaunch robot_arm_pkg check_motors.launch
