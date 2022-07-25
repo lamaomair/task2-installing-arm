@@ -64,3 +64,5 @@ roslaunch robot_arm_pkg check_motors.launch
 
 
 ## finally, I screenshot this is the result :
+
+![thearm](https://user-images.githubusercontent.com/109251925/180820694-1fc0576d-f790-4b1d-9fe2-1c984f167946.jpg)
